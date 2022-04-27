@@ -1,0 +1,5 @@
+{
+    "sketch": "coin_change_project_code.ino",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:diecimila"
+}
